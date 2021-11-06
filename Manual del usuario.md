@@ -78,3 +78,7 @@ Estos pasos serian una forma general de como buscar, editar, leer y guardar arch
 Luego de ver la funcionalidad de cada uno de los botonoes como funcionan para que sirven esta es una manera general de como funciona la interfaz grafica del programa realizado en Python ahora para salir del programa solamente presionamos el boton salir y estaremos fuera y listo.
 
 ![10](https://user-images.githubusercontent.com/91577396/140596299-7fb0d51e-17c8-4a06-ab35-3ffaddc11ea9.PNG)
+
+# Solucion de Algunos Problemas
+
+Cada una de las partes del codigo fuente tiene una documentacion interna se presentan notas de la funcionalidad de cada elemento del codigo eso es para lograr el mayor entendimiento del programa ahora dentro del programa se pueden presentar algunos errores al momento de utilizar el programa como por ejemplo cuando se busca el archivo con la ruta del archivo no utilizar comillas al momento de buscar el achivo y copiar exactamente donde esta ubicado el archivo para que no se presenten problemas mas adelante y se pueda leer el archivo, editar y guardar. Estar atentos cuadno deseemos editar los datos del usuario en este caso los datos se presentaran de una manera determinada pero si el usuario desea los puede cambiar tambien es editable la ventana princiapl como el color, el tamaño los label el tamaño de los textbox todo eso se puede editar pero se tiene que hacer de la mejor manera porque si no puede presentar problemas al momento de ejecutar el programa.
