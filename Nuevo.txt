@@ -1,0 +1,12 @@
+PROYECTO FINAL ALGORITMOS 
+
+GESTION DE ARCHIVOS
+
+Aqui se puede editar el archivo nosotros decidimos que infromacion
+colocar aqui para editarla dentro del archivo de texto gracias :)
+Presionamos el boton de guardar y esto se guardara en el archivo de texto
+Presionamos el boton salir para cerrar el programa¨
+
+
+
+
