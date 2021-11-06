@@ -82,3 +82,5 @@ Luego de ver la funcionalidad de cada uno de los botonoes como funcionan para qu
 # Solucion de Algunos Problemas
 
 Cada una de las partes del codigo fuente tiene una documentacion interna se presentan notas de la funcionalidad de cada elemento del codigo eso es para lograr el mayor entendimiento del programa ahora dentro del programa se pueden presentar algunos errores al momento de utilizar el programa como por ejemplo cuando se busca el archivo con la ruta del archivo no utilizar comillas al momento de buscar el achivo y copiar exactamente donde esta ubicado el archivo para que no se presenten problemas mas adelante y se pueda leer el archivo, editar y guardar. Estar atentos cuadno deseemos editar los datos del usuario en este caso los datos se presentaran de una manera determinada pero si el usuario desea los puede cambiar tambien es editable la ventana princiapl como el color, el tamaño los label el tamaño de los textbox todo eso se puede editar pero se tiene que hacer de la mejor manera porque si no puede presentar problemas al momento de ejecutar el programa.
+
+Mario Quiñonez 7690-21-2086 Universidad Mariano Galvez Facultad de Ingenieria en Sistemas
